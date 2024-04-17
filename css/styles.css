@@ -82,7 +82,7 @@ header {
 }
 
 #notes-container {
-  display: flex;
+  display: grid;
   grid-template-columns: repeat(auto-fill, 250px);
   padding: 2rem;
   gap: 2rem;
