@@ -9,7 +9,7 @@
 
 <img align="center" src="css/devnotes.png" alt="imagem do projeto"/>
 
-#### Clica ne link e divirta-se 👉 
+#### Clica nesse link e divirta-se 👉 https://arymanreis.github.io/Dev_Nodes/
 
 #### Tecnologias Usadas no projeto
 
